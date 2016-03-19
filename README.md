@@ -1,7 +1,6 @@
-# ITP Camp / A Thousand Particles
+# OF Course / A Thousand Particles
 
-ITP / NYU
 
 Instructor: Bernardo Schorr
 
-E-mail: [bernardo@newschool.edu](bernardo@newschool.edu)
+E-mail: [me@bernardoschorr.com](me@bernardoschorr.com)
